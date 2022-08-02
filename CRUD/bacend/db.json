@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ali",
+      "salary": 2000
+    },
+    {
+      "id": 2,
+      "name": "Muhammad",
+      "salary": 2000
+    },
+    {
+      "id": 3,
+      "name": "Baxa",
+      "salary": 2000
+    },
+    {
+      "id": 4,
+      "name": "Maga",
+      "salary": 100
+    },
+    {
+      "id": 7,
+      "name": "Tima",
+      "salary": 50000
+    }
+  ]
+}
